@@ -9,3 +9,4 @@ Creating a new branch is quick and simple
 Creating a new branch is quick and simple
 >>>>>>> featurel
 add merger
+git is a free software ...
